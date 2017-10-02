@@ -1,2 +1,2 @@
 # MultipleImageSelectShowRecycler
-select multiple images
+select multiple images from Gallery and Show it on recycler view
